@@ -1,0 +1,15 @@
+#left-side{
+    background-image:url("./images/stars-background.jpg");
+    width: 30%;
+    height: auto;
+    float: left;
+}
+#right-side{
+    width: 70%;
+    float: right;
+    height: auto;
+}
+#cool-letters{
+    width: 100px;
+    height: 100px;
+}
